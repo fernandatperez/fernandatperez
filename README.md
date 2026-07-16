@@ -42,7 +42,7 @@ Explorando también **Python/FastAPI** y profundizando en paradigmas de programa
 
 **[Sistema de rescate con drones](https://github.com/CatalinaCorrea-png/Proyecto-Software-2026)** — Frontend en React con feed de detecciones en tiempo real vía WebSocket, backend en Python/FastAPI con modelado ORM (misiones, detecciones, grillas).
 
-**[Algo que pedir 2025](https://github.com/fernandatperez/algo-que-pedir-backend-2025-grupo1)** — Proyecto grupal de backend, desarrollado en equipo.
+**[Algo que pedir](https://github.com/fernandatperez/algo-que-pedir)** — Proyecto grupal de backend, desarrollado en equipo.
 
 ---
 
